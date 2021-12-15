@@ -210,3 +210,8 @@ h1 {
     left: 55%;
     top: 94%;
 }
+
+footer p {
+    position: absolute;
+    top: 97%;
+}
