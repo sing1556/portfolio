@@ -194,7 +194,7 @@ nav img {
     transform: translate(-50%, -50%);
 }
 
-.center-nav .about-nav-bar1 {
+.center-nav .work-nav-bar1 {
     float: none;
     position: absolute;
     top: 17%;
@@ -202,7 +202,7 @@ nav img {
     transform: translate(-50%, -50%);
 }
 
-.center-nav .about-nav-bar2 {
+.center-nav .work-nav-bar2 {
     float: none;
     position: absolute;
     top: 17%;
@@ -210,7 +210,7 @@ nav img {
     transform: translate(-50%, -50%);
 }
 
-.center-nav .about-nav-bar3 {
+.center-nav .work-nav-bar3 {
     float: none;
     position: absolute;
     top: 17%;
@@ -227,7 +227,7 @@ h1 {
     font-size: 40px;
 }
 
-.about-h1 {
+.work-h1 {
     color: yellow;
     position: absolute;
     top: 6%;
@@ -235,7 +235,7 @@ h1 {
     font-size: 33px;
 }
 
-.about-h2 {
+.work-h2 {
     color: white;
     margin-left: 10%;
     margin-top: 3%;
@@ -266,6 +266,67 @@ footer p {
     width: 50%;
     margin-left: 25%;
     margin-top: 15%;
+}
+
+.product-photo img {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 30%;
+}
+
+.pet-photo img {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 28%;
+}
+
+.nav-bar1 a:hover{
+    color: yellow;
+}
+
+.nav-bar2 a:hover{
+    color: yellow;
+}
+
+.nav-bar3 a:hover{
+    color: yellow;
+}
+
+.work-nav-bar2 a {
+    color: yellow;
+    text-decoration: underline;
+}
+
+.work-nav-bar1 a:hover{
+    color: yellow;
+}
+
+.work-nav-bar2 a:hover{
+    color: yellow;
+}
+
+.work-nav-bar3 a:hover{
+    color: yellow;
+}
+
+.product-hover h2:hover{
+    color: yellow;
+}
+
+.candid-hover h2:hover{
+    color: yellow;
+}
+
+.pet-hover h2:hover{
+    color: yellow;
+}
+
+.candid-hover h2:visited {
+    color: yellow;
+}
+
+.candid-hover h2:active {
+    color: yellow;
 }
 
 .button1 .im-arrow-right-circle{
