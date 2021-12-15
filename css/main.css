@@ -137,12 +137,10 @@ html, body {
 
 body  {
     background-color: black;
-    background-image: url("../images/dog-4118585_960_720.jpg");
-    background-size: 480px;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-position: center;
-    
+}
+
+.banner img {
+    width: 100%;
 }
 
 body p {
