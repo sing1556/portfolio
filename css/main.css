@@ -130,14 +130,18 @@ table {
 
 /* CSS STYLE */
 
-body {
+body  {
     background-color: black;
     background-image: url("../images/dog-4118585_960_720.jpg");
     background-size: 480px;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
+    
+}
 
+body p {
+    color: white;
 }
 
 nav li {
@@ -191,4 +195,18 @@ h1 {
     top: 50%;
     left: 10%;
     font-size: 40px;
+}
+
+.media1 {
+    width: 133%;
+    position: absolute;
+    left: 83%;
+    top: 89%;
+}
+
+.media2 {
+    width: 60%;
+    position: absolute;
+    left: 55%;
+    top: 94%;
 }
