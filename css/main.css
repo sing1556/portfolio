@@ -227,6 +227,13 @@ h1 {
     font-size: 40px;
 }
 
+h2 {
+    color: white;
+    margin-left: 30.5%;
+    margin-top: 10%;
+    font-size: 150%
+}
+
 .work-h1 {
     color: yellow;
     position: absolute;
@@ -354,4 +361,47 @@ footer p {
     width: 30%;
     margin-left: 35%;
     margin-top: 8%;
+}
+
+.contact  {
+    color: white;
+    margin-top: 90%;
+}
+
+
+div.contact {
+    /* border of contact section */
+    background-color: grey;
+    border: 1px solid black;
+    padding: 20px;
+    margin-top: 10%;
+}
+
+div.contact .blocklabel {
+    display: block;
+    font-size: 1.1rem;
+    margin-bottom: 0.25rem;
+}
+
+input.maxwidth {
+    /* makes input under name and email to be 100% width */
+    margin-bottom: 0.75rem;
+    padding-bottom: 0.5rem;
+    width: 100%;
+}
+
+textarea#message {
+    /* making message input size bigger and no adjustable  */
+    padding-bottom: 3rem;
+    resize: none;
+    width: 100%;
+}
+
+button {
+    /* adding border, font-size, etc., to button in contact section */
+    background: none;
+    border: 1px solid black;
+    font-size: 0.7rem;
+    margin-top: 0.7rem;
+    padding: 0.7rem;
 }
