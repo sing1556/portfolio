@@ -130,6 +130,11 @@ table {
 
 /* CSS STYLE */
 
+html, body {
+    max-width: 100%;
+    overflow: hidden;
+}
+
 body  {
     background-color: black;
     background-image: url("../images/dog-4118585_960_720.jpg");
@@ -198,20 +203,21 @@ h1 {
 }
 
 .media1 {
-    width: 133%;
+    width: 100%;
     position: absolute;
-    left: 83%;
-    top: 89%;
+    top: 88.8%;
+    left: 87%;
 }
 
 .media2 {
-    width: 60%;
+    width: 50%;
     position: absolute;
-    left: 55%;
-    top: 94%;
+    top: 92.5%;
+    left: 65%;
 }
 
 footer p {
     position: absolute;
-    top: 97%;
+    top: 9%;
+    font-size: 10px;
 }
