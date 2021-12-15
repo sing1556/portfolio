@@ -140,9 +140,9 @@ body  {
 }
 
 .banner img {
-    width: 70%;
+    width: 100%;
     align-items: center;
-    margin-right: 10%;
+    margin-left: 10%;
 }
 
 body p {
@@ -205,7 +205,7 @@ h1 {
 .media1 {
     width: 100%;
     position: absolute;
-    top: 90%;
+    top: 89.5%;
     left: 87%;
 }
 
