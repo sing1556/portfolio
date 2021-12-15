@@ -146,6 +146,11 @@ nav li {
     padding: 12px 5px;
 }
 
+nav li a {
+    color: white;
+    text-decoration: none;
+}
+
 nav li:first-child {
     text-align: left;
 }
