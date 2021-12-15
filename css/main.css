@@ -194,12 +194,52 @@ nav img {
     transform: translate(-50%, -50%);
 }
 
+.center-nav .about-nav-bar1 {
+    float: none;
+    position: absolute;
+    top: 17%;
+    left: 25%;
+    transform: translate(-50%, -50%);
+}
+
+.center-nav .about-nav-bar2 {
+    float: none;
+    position: absolute;
+    top: 17%;
+    right: 39%;
+    transform: translate(-50%, -50%);
+}
+
+.center-nav .about-nav-bar3 {
+    float: none;
+    position: absolute;
+    top: 17%;
+    right: 10%;
+    transform: translate(-50%, -50%);
+}
+
+
 h1 {
     color: yellow;
     position: absolute;
     top: 50%;
     left: 10%;
     font-size: 40px;
+}
+
+.about-h1 {
+    color: yellow;
+    position: absolute;
+    top: 6%;
+    left: 25%;
+    font-size: 33px;
+}
+
+.about-h2 {
+    color: white;
+    margin-left: 10%;
+    margin-top: 3%;
+    font-size: 80%;
 }
 
 .media1 {
@@ -220,4 +260,24 @@ footer p {
     position: absolute;
     top: 97%;
     font-size: 10px;
+}
+
+.child-photo img {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 15%;
+}
+
+.button1 .im-arrow-right-circle{
+    color: white;
+    position: absolute;
+    top: 60%;
+    left: 80%;
+}
+
+.button2 .im-arrow-left-circle{
+    color: white;
+    position: absolute;
+    top: 60%;
+    right: 80%;
 }
