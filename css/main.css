@@ -181,7 +181,7 @@ nav img {
     float: none;
     position: absolute;
     top: 60%;
-    right: 20%;
+    right: 18%;
     transform: translate(-50%, -50%);
 }
 
@@ -189,6 +189,6 @@ h1 {
     color: yellow;
     position: absolute;
     top: 50%;
-    left: 15%;
+    left: 10%;
     font-size: 40px;
 }
