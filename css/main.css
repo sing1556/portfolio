@@ -179,3 +179,11 @@ nav img {
     right: 25%;
     transform: translate(-50%, -50%);
 }
+
+h1 {
+    color: yellow;
+    position: absolute;
+    top: 50%;
+    left: 19%;
+    font-size: 40px;
+}
